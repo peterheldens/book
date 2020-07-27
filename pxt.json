@@ -1,0 +1,22 @@
+{
+    "name": "book",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "level0/01-name-badge/README.md",
+        "level0/01-name-badge/main.blocks",
+        "level0/01-name-badge/main.ts",
+        "level0/01-name-badge/pxt.json",
+        "level0/01-name-badge/test.ts",
+        "level0/01-name-badge/tsconfig.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
